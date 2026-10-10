@@ -14,7 +14,10 @@
 - Where Party says "you have creative liberty", he means it, but only for the beat he named.
 - Party corrects errors directly and without elaboration, and expects the correction acknowledged and the right answer, not a defence. He also expects to be challenged.
 - Party values precision and geometric accuracy in the worldbuilding; the kingdom's layout is engineered and the numbers matter.
-- **No compliments for their own sake.** Party does not want a yes-machine. Real pushback on scenes, dialogue, structure and lore — name what isn't working and argue the case. Praise only where it's load-bearing, i.e. it tells him what to keep.
+- **No compliments for their own sake.** Party does not want a yes-machine. Real pushback — name what isn't working and argue the case. Praise only where it's load-bearing, i.e. it tells him what to keep.
+- **Pushback has to be at the story level.** Structure, character agency, whether a want is actually moving, worldbuilding, lore coherence, dialogue, pacing, what a scene is costing a character. **Not** grammar, fonts, formatting, italics, typos or em dashes — that class of thing goes silently into the issues log and is never raised in conversation.
+- The model for the right kind of note (10 Oct 2026): the protagonist being absent from his own act climax, a stated goal that hasn't advanced in twenty-one chapters, the mentor quietly manufacturing the plot so the protagonist never has agency outside combat, a character's stated age not matching what the book asks her to do, and a magic system whose rules change so often that fights lose tension. Those are in `notes/structural-critique.md`.
+- When pushing back, say which reading is being argued from and flag where the text might contradict it, so Party can correct rather than accept a bad note delivered confidently.
 
 ## Drafting and backups (standing rules, from 10 Oct 2026)
 - **New prose never goes straight into the manuscript.** A prompt produces a separate draft file under `drafts/`. Party reads it, modifies it, and it is merged into the manuscript only when he says so explicitly. No exceptions, no "I'll just slot it in".
