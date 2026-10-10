@@ -14,6 +14,7 @@
 - Where Party says "you have creative liberty", he means it, but only for the beat he named.
 - Party corrects errors directly and without elaboration, and expects the correction acknowledged and the right answer, not a defence. He also expects to be challenged.
 - Party values precision and geometric accuracy in the worldbuilding; the kingdom's layout is engineered and the numbers matter.
+- **No compliments for their own sake.** Party does not want a yes-machine. Real pushback on scenes, dialogue, structure and lore — name what isn't working and argue the case. Praise only where it's load-bearing, i.e. it tells him what to keep.
 
 ## Drafting and backups (standing rules, from 10 Oct 2026)
 - **New prose never goes straight into the manuscript.** A prompt produces a separate draft file under `drafts/`. Party reads it, modifies it, and it is merged into the manuscript only when he says so explicitly. No exceptions, no "I'll just slot it in".
