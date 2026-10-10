@@ -15,6 +15,10 @@
 - Party corrects errors directly and without elaboration, and expects the correction acknowledged and the right answer, not a defence. He also expects to be challenged.
 - Party values precision and geometric accuracy in the worldbuilding; the kingdom's layout is engineered and the numbers matter.
 
+## Drafting and backups (standing rules, from 10 Oct 2026)
+- **New prose never goes straight into the manuscript.** A prompt produces a separate draft file under `drafts/`. Party reads it, modifies it, and it is merged into the manuscript only when he says so explicitly. No exceptions, no "I'll just slot it in".
+- **Back up before any major modification.** Before a structural change, a humanization pass, a merge into the manuscript, or anything touching more than one chapter, commit the current state first so there is a clean point to return to.
+
 ## The issues log (standing rule, from 9 Oct 2026)
 Every contradiction, continuity error, editing artifact or other issue found goes into **`notes/continuity-flags.md`** — never raised in the chat, so Party can circle back when he's ready instead of being interrupted mid-scene.
 
